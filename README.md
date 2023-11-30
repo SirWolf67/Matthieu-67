@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Matthieu
-- 👀 I’m interested in high tech
-- 🌱 I’m currently learning digitals systems at school
-- 🧐 I’m looking to collaborate on a workplacement in a entreprise
-- 📫 you can text me in my mailbox : matthieu.huss67770@protonmail.com
